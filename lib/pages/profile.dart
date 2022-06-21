@@ -26,16 +26,14 @@ class Profile extends StatelessWidget {
             height: 30,
           ),
           const Text(
-            "Hiruni Piyumika",
+            "Nithya Yamasinghe",
             style: TextStyle(
                 fontSize: 20, fontStyle: FontStyle.normal, color: Colors.black),
           ),
-
           const SizedBox(
             width: double.infinity,
             height: 5,
           ),
-
           const Text(
             "Title",
             style: TextStyle(
